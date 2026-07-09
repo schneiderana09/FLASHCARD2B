@@ -11,7 +11,7 @@ body {
 }
 
 .cabecalho {
-    background-color: rgb(28, 121, 202);
+    background-color: rgb(130, 188, 238);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -48,13 +48,8 @@ width: 100%;
 
 .cartao:hover .cartao-interno { 
   transform: rotateY(180deg); 
-} 
+}
 
-
-section { 
-  display: flex; 
-  gap: 16px; 
-} 
 section{
   display: flex;
   gap: 16px;
